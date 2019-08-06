@@ -1,2 +1,3 @@
 # playground_builder
-Programs to help build robot playground simulation assets
+
+Playground builder is a collection of tools that help create a simulation asset collection.
